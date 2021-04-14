@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter App - Codemagic test
 
 A new Flutter application.
 
